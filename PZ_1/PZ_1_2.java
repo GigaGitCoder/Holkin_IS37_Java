@@ -1,4 +1,6 @@
-class myProgram2{
+package PZ_1;
+
+public class PZ_1_2{
     public static void main(String[] args) {
         // System.out.println("Я прекрасно понинаю разницу ");
         System.out.print("Я прекрасно понимаю разницу ");

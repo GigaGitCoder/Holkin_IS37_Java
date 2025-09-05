@@ -1,4 +1,6 @@
-class myProgram1{
+package PZ_1;
+
+public class PZ_1_1{
     public static void main(String[] args) {
         // System.out.println("# - Это комментарий ) Cтоп, это не тот язык");
         
